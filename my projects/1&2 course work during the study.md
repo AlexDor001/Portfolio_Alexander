@@ -25,7 +25,10 @@
 <details>
 <summary>Requirements testing</summary>
   
-
+| Requirement      | Question to the requirement | Criteria |
+| ----------- | ----------- | ----------- |
+| Teacher can add private event by clicking on “+”      | Where is the button “+” located?       | Requirement doesn’t fulfill criteria “completion” 
+| ...   | ...        |...
 
 </details>
 
