@@ -45,5 +45,13 @@
 - MS Office (Excel, WORD, PowerPoint)
 
 
-### **My Projects**
+### **Language knowledge**
+- Russian - native speaker
+- English - advanced
+- German - upper-intermediate
 
+### **Get in touch**
+
+ - 📨 Email Me → <ad07849095208@gmail.com>
+ - 🤙 Call Me → +447849095208
+ - 📝 Messege me → [LinkedIn](https://www.linkedin.com/in/alexander-dorozhenok-8019a64a/)
