@@ -1,8 +1,5 @@
 ## **Alexander - Junior QA**
 
-### **About me**
-Hello! My name is Alex, I live in the UK, working in a sales department in a large international company. During my off work time I like investigating new areas and that’s how I started studying QA. I’m ready to jump into an IT world and to bring a lot of value into the company I’ll will be working in.
-
 ### **Hard skills**
 
 - Check & cheat-lists Sitechko
