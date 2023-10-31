@@ -43,10 +43,14 @@
   </details> 
 
 
-### **SOAP UI**
+### **SOAP **
 
   <details>
-<summary> SOAP UI </summary> 
-    
+<summary> SOAP  </summary> 
+   
+ [SOAP_Ya_Speller.docx](https://github.com/AlexDor001/Portfolio_Alexander/files/13218461/SOAP_Ya_Speller.docx)   
 
   </details> 
+
+
+  
