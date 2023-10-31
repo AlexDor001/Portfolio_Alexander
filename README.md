@@ -31,7 +31,7 @@
 
 -  Pairwise
 - Project description in Confluence
-- API: Postman
+- API: Postman, SOAP, JMeter
 - WhiteboardMiro
 
 <details>
@@ -42,6 +42,7 @@
 </details>
 
 - Dashboard Trello
+- PostgreSQL 
 - MS Office (Excel, WORD, PowerPoint)
 
 
