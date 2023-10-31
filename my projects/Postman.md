@@ -28,7 +28,7 @@
 ### **Trello Postman collection**
 
   <details>
-<summary> Mockoon</summary> 
+<summary> Trello </summary> 
     
 [Trello.postman_collection.json](https://github.com/AlexDor001/Portfolio_Alexander/files/13218127/Trello.postman_collection.json)
 
